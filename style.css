@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.botomborder{
+    border-bottom: 1px solid white;
+}
+
+.small-font{
+    font-size: 12px;
+    color: blue;
+}
+.card_n{
+    /* height: 600px; */
+    width: 600px;
+    display: inline-block;
+    text-align: center;
+}
+.img-n{
+    height: 500px;
+    width: 500px;
+}
+.backColor{
+    background-color: black;
+}
+
+.display-block {
+    display: block;
+    width: 100%;
+}
